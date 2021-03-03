@@ -30,6 +30,12 @@ A basic example with Given - When - Then and showing how to pass data to the ste
 
 A basic example querying DuckDuckGo search engine
 
+## Login
+
+I have this example where I have one feature with two scenarios: valid login and invalid login.
+
+If you take a look at the _I login with valid credentials_ step, you can see that it takes the values from environment variables, and for that reason unless you have an account in [Chameleon](https://chameleon.vision/en/index.html) this test will fail :)
+
 # How to run this tests
 
 Execute:

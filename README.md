@@ -30,6 +30,10 @@ A basic example with Given - When - Then and showing how to pass data to the ste
 
 A basic example querying DuckDuckGo search engine
 
+## Hdiv
+
+I'm working at [Hdiv security](https://hdivsecurity.com/) (great company if you ask me ;) ) and it's mandatory for me to develop at least one example where you can log in and check a failed login in the web console.
+
 ## Login
 
 I have this example where I have one feature with two scenarios: valid login and invalid login.
